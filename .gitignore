@@ -1,0 +1,23 @@
+# Credentials and secrets
+.env
+*.env
+secrets.*
+*credentials*.json
+*service-account*.json
+
+# Personal data exports (Module 5) — never in a shared repo
+personal-data/
+raw-export/
+
+# Local data files stay local
+data/*
+!data/README.md
+
+# Python environment — recreate it, don't commit it
+.venv/
+venv/
+
+# Local scratch
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
