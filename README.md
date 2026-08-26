@@ -20,7 +20,7 @@ One habit goes with the rule: **Sync before you start, Sync when you stop.** (In
 | `members/<your-netid>/` | Your own work in progress | Only you |
 | `shared/` | Instructor-seeded starter files; team deliverables from Module 6 on | Read-only until Module 6 |
 | `data/` | Local data files — **never committed** (gitignored) | Everyone, locally only |
-| `docs/ai-attribution-log.md` | The team's AI Attribution Log, appended weekly | Everyone, own entries |
+| `docs/ai-attribution-log.md` | The **team** AI Attribution Log for shared deliverables, from Module 6 on. Individual assignments (Modules 1–5) log AI use in **Part C of the assignment notebook** instead | Everyone, own entries (from Module 6) |
 | `README.md` | This file; later, your project README | The designated integrator only |
 
 ## If git ever gets into a state you don't understand
