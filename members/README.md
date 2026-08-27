@@ -1,6 +1,6 @@
 # members/
 
-One folder per teammate, named by NetID. Your folders are created when the repo is set up in Project Studio.
+One folder per teammate, named by NetID. Create yours in Project Studio: `members/<your-netid>/` (the live demo shows it), then copy the starter notebook in from `templates/`.
 
 **You commit only inside your own folder until Module 6.** If something needs to change in a teammate's folder or in `shared/`, ask them to make the change.
 
