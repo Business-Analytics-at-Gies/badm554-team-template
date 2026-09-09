@@ -22,5 +22,5 @@ These are the operations where a confident wrong move destroys work unrecoverabl
 ## Other repository rules
 
 - Never commit credentials, personal data exports, or another person's information. Respect the `.gitignore`.
-- Until Module 6: each teammate commits only inside their own `members/<netid>/` folder; `shared/` is read-only.
+- Until Module 6: assignment notebooks go only in your own `members/<netid>/` folder and `shared/` is read-only. Team files (`README.md`, `docs/`, `feedback/`) may be committed by any member.
 - Never rewrite `docs/ai-attribution-log.md` history — append only.
